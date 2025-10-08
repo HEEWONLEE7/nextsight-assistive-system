@@ -1,40 +1,52 @@
-# 시각장애인의 안전한 보행을 위한 AI 기반 스마트 시스템 👓
+# Development of an AI-Based Assistive Eyewear System for Safe Walking of the Visually Impaired 👓  
 
-## 개요
-**NEXT SIGHT**는 시각장애인을 위한 지능형 보행 보조 시스템으로,  
-카메라・라이다・플렉스 센서・LLM 등을 통합하여  
-사용자의 주변 상황을 인식하고 안전한 보행을 돕는 것을 목표로 한 프로젝트입니다.
+## Overview  
+**NEXT SIGHT** is an intelligent assistive walking system designed for the visually impaired.  
+It integrates a camera, LiDAR, flex sensors, and a Large Language Model (LLM)  
+to perceive the surrounding environment and provide real-time feedback for safe walking.  
 
-본 프로젝트는 **광운대학교 로봇학부 2025-1학기 캡스톤** 과목을 통해 진행되었으며,  
-**HOPE Project 대상** 을 수상하였습니다.
+This project was conducted as part of the **Capstone Design Course (Spring 2025)**  
+at **Kwangwoon University, Department of Robotics**,  
+and was awarded the **Grand Prize at the 2025 HOPE Project**.  
 
-## 주요 기능
-- 카메라를 통한 객체 인식 (YOLOv8 기반)  
-- 라이다 센서를 이용한 거리 및 장애물 감지  
-- 플렉스 센서를 이용한 손 제스처 명령 인식  
-- 음성 인식(STT) 및 음성 안내(TTS) 기능 통합  
-- ROS 2 기반 다중 보드 간 통신 구조 구성  
+---
 
-## 하드웨어 구성
-- **스마트 안경:** Radxa Zero 3W (카메라, 마이크)  
-- **스마트 지팡이:** Raspberry Pi 4 (LiDAR, 점자 디스플레이)  
-- **스마트 장갑:** Raspberry Pi Zero 2W (Flex 센서)  
-- **통신:** ROS 2 Humble + WireGuard VPN
+## Key Features  
+- Object detection using **YOLOv8**  
+- Distance and obstacle detection via **LiDAR sensor**  
+- Hand gesture recognition using **flex sensors**  
+- Speech recognition (STT) and voice guidance (TTS) integration  
+- Multi-board communication based on **ROS 2 + WireGuard VPN**  
+- LLM (Gemma-based) for natural-language scene description and dialogue  
 
-## 프로젝트 정보
-- **프로젝트명:** 시각장애인의 안전한 보행을 위한 AI 기반 스마트 시스템
-- **팀명:** NEXT SIGHT  
-- **소속:** 광운대학교 로봇학부  
-- **기간:** 2025년 3월 ~ 2025년 9월  
-- **수상:** HOPE Project 대상 (2025)
+---
+
+## Hardware Configuration  
+- **Smart Glasses:** Radxa Zero 3W (Camera, Microphone)  
+- **Smart Cane:** Raspberry Pi 4 (LiDAR, Braille Display)  
+- **Smart Glove:** Raspberry Pi Zero 2W (Flex Sensors)  
+- **Network:** ROS 2 Humble + WireGuard VPN  
+
+---
+
+## Project Information  
+- **Project Title:** On-Device AI-Based Assistive System for the Visually Impaired  
+- **Team Name:** NEXT SIGHT  
+- **Affiliation:** Department of Robotics, Kwangwoon University  
+- **Project Period:** March 2025 – September 2025  
+- **Award:** Grand Prize, HOPE Project 2025  
+
+---
+
+## Research & Publications  
+- **Paper Title:** *Development of an AI-Based Assistive Eyewear System for Safe Walking of the Visually Impaired*  
+- **Conference:** ICROS2025
+- **Paper Link:** [📎 View on DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313588)  
+- **GitHub Repository:** [🔗 https://github.com/HEEWONLEE7/nextsight-assistive-system](https://github.com/HEEWONLEE7/nextsight-assistive-system)  
+- **YouTube Introduction Video:** [▶ Watch Here](https://youtu.be/0G4q5rAMaxI)  
 
 
-## 논문 / 연구자료
-- **논문 제목:** *Development of an AI-Based Assistive Eyewear System for Safe Walking of the Visually Impaired*
-- **발표 학회:** 2025 제40회 제어로봇시스템학회 학술대회
-- **논문 링크:** [📎 클릭하여 보기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313588)  
+---
 
----  
-
-> 📍 *본 저장소는 NEXT SIGHT 프로젝트의 핵심 코드 및 자료를 포함하고 있으며,  
-> 실제 하드웨어 환경에 따라 일부 설정이 상이할 수 있습니다.*
+> 📍 *This repository contains the core source code and implementation details of the NEXT SIGHT project.  
+> Hardware configuration or environment setup may differ depending on the device.*  
