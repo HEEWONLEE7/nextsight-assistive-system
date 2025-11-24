@@ -43,7 +43,8 @@ and was awarded the **Grand Prize at the 2025 HOPE Project**.
 - **Conference:** ICROS2025
 - **Paper Link:** [📎 View on DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313588)  
 - **GitHub Repository:** [🔗 https://github.com/HEEWONLEE7/nextsight-assistive-system](https://github.com/HEEWONLEE7/nextsight-assistive-system)  
-- **YouTube Introduction Video:** [▶ Watch Here](https://youtu.be/0G4q5rAMaxI)  
+- **YouTube Introduction Video:** [▶ Watch Here](https://youtu.be/0G4q5rAMaxI)
+- **Related Article:** [📑 https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=51000](https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=51000)  
 
 
 ---
