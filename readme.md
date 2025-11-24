@@ -12,7 +12,6 @@ This project was conducted as part of the **Capstone Design Course (Spring 2025)
 at **Kwangwoon University, Department of Robotics**,  
 and was awarded the **Grand Prize at the 2025 HOPE Project**.
 
----
 
 ## Key Features
 - Object detection using **YOLOv8**
@@ -22,7 +21,6 @@ and was awarded the **Grand Prize at the 2025 HOPE Project**.
 - Multi-board communication based on **ROS 2 + WireGuard VPN**
 - LLM (Gemma-based) for natural-language scene description and dialogue
 
----
 
 ## Hardware Configuration
 - **Smart Glasses:** Radxa Zero 3W (Camera, Microphone)
@@ -30,7 +28,6 @@ and was awarded the **Grand Prize at the 2025 HOPE Project**.
 - **Smart Glove:** Raspberry Pi Zero 2W (Flex Sensors)
 - **Network:** ROS 2 Humble + WireGuard VPN
 
----
 
 ## Project Information
 - **Project Title:** On-Device AI-Based Assistive System for the Visually Impaired  
@@ -39,15 +36,13 @@ and was awarded the **Grand Prize at the 2025 HOPE Project**.
 - **Project Period:** March 2025 – September 2025  
 - **Award:** Grand Prize, HOPE Project 2025
 
----
 
 ## Research & Publications
 - **Paper Title:** *Development of an AI-Based Assistive Eyewear System for Safe Walking of the Visually Impaired*  
 - **Conference:** ICROS 2025  
 - **Paper Link:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313588  
 - **GitHub Repository:** https://github.com/HEEWONLEE7/nextsight-assistive-system  
-- **Related Article:**  
-  https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=51000
+- **Related Article:** https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=51000
 
 ---
 
